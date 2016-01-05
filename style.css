@@ -1,0 +1,25 @@
+-webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+
+
+form {
+  width: 900px;
+  height: 800px;
+  border: solid 1px black;
+  margin: auto;
+}
+
+input[type=tel ]{
+  display: inline;
+  width: 30px;
+}
+
+label {
+  margin-left: 20px;
+}
+
+div {
+  margin-top: 30px;
+
+}
